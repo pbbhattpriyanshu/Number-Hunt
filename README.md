@@ -1,2 +1,2 @@
 # Number-Hunt
-"Guess the Number" is a simple Python mini-project where the computer randomly selects a number within a given range, and the player tries to guess it. !
+"Guess the Number" is a simple Python mini-project where the computer randomly selects a number within a given range, and the player tries to guess it. After each guess, the program provides feedback indicating whether the guess was too high, too low, or correct. The game continues until the player successfully guesses the number. It’s a great beginner project to practice loops, conditionals, and random number generation in Python!
